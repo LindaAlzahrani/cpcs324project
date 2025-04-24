@@ -1,0 +1,26 @@
+10
+A City0
+B City1
+C City2
+D City3
+E City4
+F City5
+G City6
+H City7
+I City8
+J City9
+14
+A B 10
+A F 3
+B C 2
+B E 6
+C D 1
+D E 1
+D G 4
+E C 3
+F E 2
+G F 1
+G H 2
+H I 3
+I D 4
+J F 2

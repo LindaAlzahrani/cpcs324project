@@ -1,0 +1,11 @@
+diagraph 0
+5 7
+
+A B 3
+A D 7
+B D 2
+B C 4
+D C 5
+D E 4
+C E 6
+
